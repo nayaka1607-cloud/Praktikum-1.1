@@ -1,0 +1,6 @@
+.evy
+.vscode/
+.idea/
+.DS Store
+Thumbs.db
+backup/
