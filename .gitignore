@@ -1,6 +1,8 @@
 .evy
+*.local.php
 .vscode/
 .idea/
 .DS Store
 Thumbs.db
+*.log
 backup/
